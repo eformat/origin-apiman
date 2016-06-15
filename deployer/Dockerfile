@@ -1,4 +1,4 @@
-FROM openshift/origin:latest
+FROM centos:centos7
 
 MAINTAINER OpenShift Development <dev@lists.openshift.redhat.com>
 
